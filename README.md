@@ -1,0 +1,1 @@
+# nostr-share-sample-game
